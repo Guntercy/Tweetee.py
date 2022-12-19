@@ -1,2 +1,0 @@
-# Tweetee.py
-TweetBot.py
